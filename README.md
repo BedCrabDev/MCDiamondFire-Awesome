@@ -52,8 +52,53 @@ Create code templates using Python inside your favorite IDE.
 
 Github: [https://github.com/Ampersand-S/pyre](https://github.com/Ampersand-S/pyre)
 
-## External tools
-*Websites with tools to help you code*
+## Mods
+*Coding utilites for your client*
+
+Notes:
+* All these mods require [Fabric](https://fabricmc.net/use/).
+* To download, go on the GitHub link and click Releases.
+
+### recode
+
+Maintained CodeUtilities 2.0 fork.
+
+Version: 1.18  
+Discord: [https://discord.gg/GWxWtcwA2C](https://discord.gg/GWxWtcwA2C)  
+Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
+
+### LessUtilities
+
+A couple utilites from CodeUtilites 2.0.
+
+Version: 1.18  
+Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/KabanFriends/LessUtilities/)
+
+### CodeUtilities
+
+Scripting with some other minor utilites.
+
+Version: 1.18  
+Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+Github: [https://github.com/CodeUtilities/CodeUtilities/](https://github.com/CodeUtilities/CodeUtilities/)  
+Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+
+### CodeUtilities 2.0
+
+`OUTDATED` DF no longer supports this Minecraft version
+
+Feature packed with utilites. Was the best mod.
+
+Version: 1.16  
+Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
+Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+
+### CopeUtilities
+
+;-)
+
+Soon.
 
 ## Code templates
 *Hand picked from the code vault*
