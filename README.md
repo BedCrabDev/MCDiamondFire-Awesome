@@ -94,11 +94,13 @@ Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)
 Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
 Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 
-### CopeUtilities
+### DFScript
 
-;-)
+A revival of the CodeUtilites scripting feature
 
-Soon.
+Version: 1.19
+Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)
+Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
 
 ## Code templates
 *Hand picked from the code vault*
