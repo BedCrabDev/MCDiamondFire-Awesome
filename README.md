@@ -52,6 +52,13 @@ Create code templates using Python inside your favorite IDE.
 
 Github: [https://github.com/Ampersand-S/pyre](https://github.com/Ampersand-S/pyre)
 
+### JFDF
+
+Create code templates using Java
+
+Github: [https://github.com/homchom/JFDF](https://github.com/homchom/JFDF)  
+Website/Docs: [https://jfdf-docs.netlify.app/latest/](https://jfdf-docs.netlify.app/latest/)
+
 ## Mods
 *Coding utilites for your client*
 
@@ -99,12 +106,15 @@ Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 A revival of the CodeUtilites scripting feature
 
 Version: 1.19
-Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)
+Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
 
 ## Code templates
 *Hand picked from the code vault*
 
+soonTM
 
 ## Misc
 *More things that don't fit in the categories above*
+
+soonTM
