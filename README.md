@@ -83,6 +83,8 @@ Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/Kaba
 
 ### CodeUtilities
 
+`OUTDATED` Replaced with recode and DFScript
+
 Scripting with some other minor utilites.
 
 Version: 1.18  
