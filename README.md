@@ -1,6 +1,8 @@
 # MCDiamondFire-Awesome
 Awesome list for MCDiamondFire: External tools, code templates, and more
 
+For discussion, join the BedCrab Discord Server: [https://discord.gg/QP8tvGd4qg](https://discord.gg/QP8tvGd4qg)
+
 ___
 
 ## Code template manipulation
