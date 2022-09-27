@@ -1,6 +1,8 @@
 # MCDiamondFire-Awesome
 Awesome list for MCDiamondFire: External tools, code templates, and more
 
+___
+
 ## Code template manipulation
 *Create code outside of DF*
 
@@ -59,6 +61,8 @@ Create code templates using Java
 Github: [https://github.com/homchom/JFDF](https://github.com/homchom/JFDF)  
 Website/Docs: [https://jfdf-docs.netlify.app/latest/](https://jfdf-docs.netlify.app/latest/)
 
+___
+
 ## Mods
 *Coding utilites for your client*
 
@@ -96,7 +100,7 @@ Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 
 `OUTDATED` DF no longer supports this Minecraft version
 
-Feature packed with utilites. Was the best mod.
+Feature packed with utilites.
 
 Version: 1.16  
 Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
@@ -107,16 +111,26 @@ Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 
 A revival of the CodeUtilites scripting feature
 
-Version: 1.18.2 & 1.19
+Version: 1.18.2 & 1.19  
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
+
+___
 
 ## Code templates
 *Hand picked from the code vault*
 
 soonTM
 
+___
+
 ## Misc
 *More things that don't fit in the categories above*
 
-soonTM
+### DF Spigotifier
+
+Convert DiamondFire template into Spigot plugins.
+
+Website: [https://dfspigot.wonk2.repl.co/](https://dfspigot.wonk2.repl.co/)  
+Discord: [https://discord.gg/6j5NhPuZ6B](https://discord.gg/6j5NhPuZ6B)  
+Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpigot)
