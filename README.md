@@ -107,7 +107,7 @@ Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 
 A revival of the CodeUtilites scripting feature
 
-Version: 1.19
+Version: 1.18.2 & 1.19
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
 
