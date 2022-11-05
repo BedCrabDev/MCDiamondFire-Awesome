@@ -76,7 +76,7 @@ Notes:
 
 Maintained CodeUtilities 2.0 fork.
 
-Version: 1.19  
+Version: 1.18.2, 1.19.2  
 Discord: [https://discord.gg/GWxWtcwA2C](https://discord.gg/GWxWtcwA2C)  
 Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
 
@@ -84,14 +84,14 @@ Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
 
 A couple utilites from CodeUtilites 2.0.
 
-Version: 1.19  
+Version: 1.18.2, 1.19  
 Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/KabanFriends/LessUtilities/)
 
 ### DFScript
 
 A revival of the CodeUtilites scripting feature
 
-Version: 1.18.2 & 1.19  
+Version: 1.18.2, 1.19  
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
 
