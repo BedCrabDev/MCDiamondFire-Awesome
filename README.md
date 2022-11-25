@@ -10,10 +10,10 @@ ___
 
 ### DFOnline.dev
 
-Drag & drop system to view and edit code templates.
+Drag & drop system to view, share and edit code templates.
 
 Discord: [https://discord.gg/NqU6XnyVPA](https://discord.gg/NqU6XnyVPA)  
-Github: [https://github.com/GeorgeRNG/dfonline](https://github.com/GeorgeRNG/dfonline)  
+Github: [https://github.com/DFOnline/editor](https://github.com/DFOnline/editor)  
 Website: [https://dfonline.dev/](https://dfonline.dev/)
 
 ### Raw Code Template Manipulation
@@ -93,7 +93,7 @@ A revival of the CodeUtilites scripting feature
 
 Version: 1.18.2, 1.19  
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
-Github: [https://github.com/TechStreetDev/DFScript](https://github.com/TechStreetDev/DFScript)
+Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScript)
 
 ### CodeUtilities
 
