@@ -133,6 +133,6 @@ ___
 
 Convert DiamondFire template into Spigot plugins.
 
-Website: [https://dfspigot.wonk2.repl.co/](https://dfspigot.wonk2.repl.co/)  
+Website: [https://wonkers0.github.io/DFSpigot/website/index.html](https://wonkers0.github.io/DFSpigot/website/index.html)
 Discord: [https://discord.gg/6j5NhPuZ6B](https://discord.gg/6j5NhPuZ6B)  
 Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpigot)
