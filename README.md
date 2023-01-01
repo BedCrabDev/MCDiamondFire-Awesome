@@ -35,6 +35,7 @@ Website: [https://dfprismarine.github.io/](https://dfprismarine.github.io/)
 Create code templates using JavaScript inside your favorite IDE.
 
 Github: [https://github.com/userunp/sparkscript](https://github.com/userunp/sparkscript)  
+Website: [https://userunp.github.io/sparkscript/](https://userunp.github.io/sparkscript/)  
 NPM: [https://www.npmjs.com/package/sparkscript](https://www.npmjs.com/package/sparkscript)
 
 ### DFblocc
