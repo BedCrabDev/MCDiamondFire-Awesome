@@ -137,3 +137,10 @@ Convert DiamondFire template into Spigot plugins.
 Website: [https://wonkers0.github.io/DFSpigot/website/index.html](https://wonkers0.github.io/DFSpigot/website/index.html)
 Discord: [https://discord.gg/6j5NhPuZ6B](https://discord.gg/6j5NhPuZ6B)  
 Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpigot)
+
+### DiamondFire Tools
+
+Create stylized text for DiamondFire text values.
+
+Website: https://racooder.github.io/DiamondFire-Tools
+Github: https://github.com/Racooder/DiamondFire-Tools
