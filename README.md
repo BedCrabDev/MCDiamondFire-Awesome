@@ -140,7 +140,10 @@ Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpi
 
 ### DiamondFire Tools
 
-Create stylized text for DiamondFire text values.
+A collection of web-tools for the DiamondFire Minecraft server
+
+- Create stylized text for DiamondFire text values.
+- A filterable list of diamondfire commands
 
 Website: https://racooder.github.io/DiamondFire-Tools
 Github: https://github.com/Racooder/DiamondFire-Tools
