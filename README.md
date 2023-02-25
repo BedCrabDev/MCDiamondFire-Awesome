@@ -92,7 +92,7 @@ Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/Kaba
 
 A revival of the CodeUtilites scripting feature
 
-Version: 1.18.2, 1.19  
+Version: 1.19.2  
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScript)
 
