@@ -96,27 +96,34 @@ Version: 1.19.2
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScript)
 
-### CodeUtilities
+### Outdated mods
 
-`OUTDATED` Replaced with recode and DFScript
+<details>
+  <summary>Click to toggle outdated mods</summary>
+  
+  ### CodeUtilities
 
-Scripting with some other minor utilites.
+  `OUTDATED` Replaced with recode and DFScript
 
-Version: 1.18  
-Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
-Github: [https://github.com/CodeUtilities/CodeUtilities/](https://github.com/CodeUtilities/CodeUtilities/)  
-Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+  Scripting with some other minor utilites.
 
-### CodeUtilities 2.0
+  Version: 1.18  
+  Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+  Github: [https://github.com/CodeUtilities/CodeUtilities/](https://github.com/CodeUtilities/CodeUtilities/)  
+  Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
 
-`OUTDATED` DF no longer supports this Minecraft version
+  ### CodeUtilities 2.0
 
-Feature packed with utilites.
+  `OUTDATED` DF no longer supports this Minecraft version
 
-Version: 1.16  
-Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
-Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
-Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+  Feature packed with utilites.
+
+  Version: 1.16  
+  Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+  Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
+  Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+  
+</details>
 
 ___
 
