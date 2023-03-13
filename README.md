@@ -96,6 +96,14 @@ Version: 1.19.2
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScript)
 
+### CodeClient
+
+An __in development__ mod with large changes to optimize how you code. From the devs of DFOnline.  
+
+Version: 1.19.3  
+Discord: [https://discord.gg/NqU6XnyVPA](https://discord.gg/NqU6XnyVPA)  
+Github: [https://github.com/DFOnline/CodeClient](https://github.com/DFOnline/CodeClient)  
+
 ### Outdated mods
 
 <details>
