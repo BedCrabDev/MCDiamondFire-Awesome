@@ -125,10 +125,24 @@ Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpi
 
 ### DiamondFire Tools
 
-A collection of web-tools for the DiamondFire Minecraft server. Create stylized text for DiamondFire text values. A filterable list of DiamondFire commands.
+A collection of web-tools for the DiamondFire Minecraft server. Create stylized text for DiamondFire text values. View a filterable list of DiamondFire commands.
 
 Website: [https://dftools.rf.gd](https://dftools.rf.gd)  
 Github: [https://github.com/Racooder/DiamondFire-Tools](https://github.com/Racooder/DiamondFire-Tools)
+
+### dfplots.net
+
+You can claim any subdomain of dfplots.net to host a site for you DiamondFire plot.
+
+Website: [https://www.dfplots.net/](https://www.dfplots.net/)  
+Discord: [https://discord.gg/rxmfkDjy6c](https://discord.gg/rxmfkDjy6c)
+
+### DiamondFireWithShaders
+
+DiamondFireWithShaders is a gallery of images of DiamondFire node spawns with cool shaders.
+
+Website: [https://squaredstudios-mc.github.io/DiamondFireWithShaders/](https://squaredstudios-mc.github.io/DiamondFireWithShaders/)  
+Github: [https://github.com/SquaredStudios-MC/DiamondFireWithShaders](https://github.com/SquaredStudios-MC/DiamondFireWithShaders)
 
 ___
 
