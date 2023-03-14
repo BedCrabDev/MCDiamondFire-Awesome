@@ -68,13 +68,15 @@ ___
 
 ### Notes:
 
-All these mods require [Fabric](https://fabricmc.net/use/).  To download, go on the GitHub link and click Releases.
+All these mods require [Fabric](https://fabricmc.net/use/).
+
+To download a mod, go on it's GitHub link and click Releases. There should be a JAR download or similar there.
 
 ### recode
 
 Maintained CodeUtilities 2.0 fork.
 
-Version: 1.18.2, 1.19.2  
+Version: 1.19.2  
 Discord: [https://discord.gg/GWxWtcwA2C](https://discord.gg/GWxWtcwA2C)  
 Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
 
@@ -82,7 +84,7 @@ Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
 
 A couple utilites from CodeUtilites 2.0.
 
-Version: 1.18.2, 1.19  
+Version: 1.19.3  
 Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/KabanFriends/LessUtilities/)
 
 ### DFScript
