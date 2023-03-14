@@ -66,9 +66,9 @@ ___
 ## Mods
 #### *Coding utilites for your client*
 
-Notes:
-* All these mods require [Fabric](https://fabricmc.net/use/).
-* To download, go on the GitHub link and click Releases.
+### Notes:
+
+All these mods require [Fabric](https://fabricmc.net/use/).  To download, go on the GitHub link and click Releases.
 
 ### recode
 
