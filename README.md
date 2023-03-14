@@ -1,12 +1,9 @@
-# MCDiamondFire-Awesome
-Awesome list for MCDiamondFire: External tools, code templates, and more
-
-For discussion, join the BedCrab Discord Server: [https://discord.gg/QP8tvGd4qg](https://discord.gg/QP8tvGd4qg)
-
-___
+---
+permalink: /
+---
 
 ## Code template manipulation
-*Create code outside of DF*
+#### *Create code outside of DF*
 
 ### DFOnline.dev
 
@@ -67,7 +64,7 @@ Website/Docs: [https://jfdf-docs.netlify.app/latest/](https://jfdf-docs.netlify.
 ___
 
 ## Mods
-*Coding utilites for your client*
+#### *Coding utilites for your client*
 
 Notes:
 * All these mods require [Fabric](https://fabricmc.net/use/).
@@ -98,52 +95,23 @@ Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScr
 
 ### CodeClient
 
-An __in development__ mod with large changes to optimize how you code. From the devs of DFOnline.  
+An in development mod with large changes to optimize how you code. From the devs of DFOnline.  
 
 Version: 1.19.3  
 Discord: [https://discord.gg/NqU6XnyVPA](https://discord.gg/NqU6XnyVPA)  
 Github: [https://github.com/DFOnline/CodeClient](https://github.com/DFOnline/CodeClient)  
 
-### Outdated mods
-
-<details>
-  <summary>Click to toggle outdated mods</summary>
-  
-  ### CodeUtilities
-
-  `OUTDATED` Replaced with recode and DFScript
-
-  Scripting with some other minor utilites.
-
-  Version: 1.18  
-  Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
-  Github: [https://github.com/CodeUtilities/CodeUtilities/](https://github.com/CodeUtilities/CodeUtilities/)  
-  Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
-
-  ### CodeUtilities 2.0
-
-  `OUTDATED` DF no longer supports this Minecraft version
-
-  Feature packed with utilites.
-
-  Version: 1.16  
-  Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
-  Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
-  Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
-  
-</details>
-
 ___
 
 ## Code templates
-*Hand picked from the code vault*
+#### *Hand picked from the code vault*
 
 soonTM
 
 ___
 
 ## Misc
-*More things that don't fit in the categories above*
+#### *More things that don't fit in the categories above*
 
 ### DF Spigotifier
 
@@ -155,10 +123,36 @@ Github: [https://github.com/Wonkers0/DFSpigot](https://github.com/Wonkers0/DFSpi
 
 ### DiamondFire Tools
 
-A collection of web-tools for the DiamondFire Minecraft server
-
-- Create stylized text for DiamondFire text values.
-- A filterable list of DiamondFire commands
+A collection of web-tools for the DiamondFire Minecraft server. Create stylized text for DiamondFire text values. A filterable list of DiamondFire commands.
 
 Website: [https://dftools.rf.gd](https://dftools.rf.gd)  
 Github: [https://github.com/Racooder/DiamondFire-Tools](https://github.com/Racooder/DiamondFire-Tools)
+
+___
+
+## Deprecated
+#### *Mods and similar that are no longer supported by DiamondFire or have stopped working.*
+
+### CodeUtilities 3.0
+
+`OUTDATED` Replaced with recode and DFScript
+
+Scripting with some other minor utilites.
+
+Version: 1.18  
+Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+Github: [https://github.com/CodeUtilities/CodeUtilities/](https://github.com/CodeUtilities/CodeUtilities/)  
+Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+
+### CodeUtilities 2.0
+
+`OUTDATED` DF no longer supports this Minecraft version
+
+Feature packed with utilites.
+
+Version: 1.16  
+Discord: [https://discord.gg/WY6tPFE](https://discord.gg/WY6tPFE)  
+Github: [https://github.com/CodeUtilities/CodeUtilities-2.0/](https://github.com/CodeUtilities/CodeUtilities-2.0/)  
+Website: [https://codeutilities.github.io/](https://codeutilities.github.io/)
+
+___
