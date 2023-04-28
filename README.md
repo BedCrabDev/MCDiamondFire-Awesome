@@ -32,7 +32,7 @@ Website: [https://dfprismarine.github.io/](https://dfprismarine.github.io/)
 Create code templates using JavaScript inside your favorite IDE.
 
 Github: [https://github.com/userunp/sparkscript](https://github.com/userunp/sparkscript)  
-Website: [https://userunp.github.io/sparkscript/](https://userunp.github.io/sparkscript/)  
+Docs: [https://userunp.github.io/sparkscript/](https://userunp.github.io/sparkscript/)  
 NPM: [https://www.npmjs.com/package/sparkscript](https://www.npmjs.com/package/sparkscript)
 
 ### DFblocc
@@ -52,14 +52,29 @@ Github: [https://github.com/KabanFriends/vmd2df](https://github.com/KabanFriends
 
 Create code templates using Python inside your favorite IDE.
 
-Github: [https://github.com/Ampersand-S/pyre](https://github.com/Ampersand-S/pyre)
+Github: [https://github.com/Ampersand-S/pyre](https://github.com/Ampersand-S/pyre)  
+PyPI: [https://pypi.org/project/pyre](https://pypi.org/project/pyre)
+
+### McDFPy
+
+A python library to create code for DiamondFire.
+
+Github: [https://github.com/AlignedCookie88/McDFPy](https://github.com/AlignedCookie88/McDFPy)  
+PyPI: [https://pypi.org/project/McDFPy](https://pypi.org/project/McDFPy)
 
 ### JFDF
 
 Create code templates using Java
 
 Github: [https://github.com/homchom/JFDF](https://github.com/homchom/JFDF)  
-Website/Docs: [https://jfdf-docs.netlify.app/latest/](https://jfdf-docs.netlify.app/latest/)
+Docs: [https://jfdf-docs.netlify.app/latest/](https://jfdf-docs.netlify.app/latest/)
+
+### Blackstone
+
+A programming language designed for DiamondFire.
+
+Github: [https://github.com/BlackstoneDF/blackstone](https://github.com/BlackstoneDF/blackstone)  
+Crates.io: [https://crates.io/crates/blackstone-df](https://crates.io/crates/blackstone-df)
 
 ___
 
