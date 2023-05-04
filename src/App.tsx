@@ -44,7 +44,7 @@ function App() {
         {data == null ? <p></p> : <div className="animate-fade-in">
             <h1 className="text-4xl font-bold mt-10">Table of contents</h1>
             <ul>
-              {data.filter(category => !category.hidden).map(category => <li key={category.name}><a href={"#" + category.name}><FontAwesomeIcon icon={faCircle} className="text-[8px] translate-y-[-2.5px] mr-2" />{category.name} ({category.items.length})</a></li>)}
+              {data.filter(category => !category.hidden).map(category => <li key={category.name}><a href={"#" + category.name}><FontAwesomeIcon icon={faCircle} className="text-[8px] translate-y-[-2.5px] mr-2 text-white" />{category.name} ({category.items.length})</a></li>)}
             </ul>
             {data.filter(category => !category.hidden).map(category => <Category data={category} key={category.name} />)}
           </div>}

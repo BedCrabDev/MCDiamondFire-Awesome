@@ -64,3 +64,7 @@ a:not(.ignore) {
 .title-inner .copy[data-anim="fail"] {
     animation: spin .5s ease-in-out;
 }
+
+body {
+    background: linear-gradient(70deg, #051106 0%, #0c0f04 100%);
+}

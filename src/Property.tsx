@@ -1,5 +1,5 @@
 import { faDiscord, faGithub, faNpm, faPython, faRust } from "@fortawesome/free-brands-svg-icons";
-import { faBook, faGlobe, faLink, faListNumeric, faQuestion, faSkull } from "@fortawesome/free-solid-svg-icons";
+import { faBook, faCodeCompare, faGlobe, faLink, faQuestion, faSkull } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { isMd, niceUrl } from "./util";
 
@@ -27,7 +27,7 @@ export default function(props: Props) {
     }
 
     if(l == "version") {
-        icon = <FontAwesomeIcon icon={faListNumeric} />
+        icon = <FontAwesomeIcon icon={faCodeCompare} />
     }
 
     if(l == "link") {
