@@ -99,14 +99,14 @@ Github: [https://github.com/homchom/recode](https://github.com/homchom/recode)
 
 A couple utilites from CodeUtilites 2.0.
 
-Version: 1.19.3  
+Version: 1.19.4  
 Github: [https://github.com/KabanFriends/LessUtilities/](https://github.com/KabanFriends/LessUtilities/)
 
 ### DFScript
 
 A revival of the CodeUtilites scripting feature
 
-Version: 1.19.2  
+Version: 1.19.4  
 Discord: [https://discord.gg/pEZYShEj](https://discord.gg/pEZYShEj)  
 Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScript)
 
@@ -114,7 +114,7 @@ Github: [https://github.com/DFOnline/DFScript](https://github.com/DFOnline/DFScr
 
 An in development mod with large changes to optimize how you code. From the devs of DFOnline.  
 
-Version: 1.19.3  
+Version: 1.19.4  
 Discord: [https://discord.gg/NqU6XnyVPA](https://discord.gg/NqU6XnyVPA)  
 Github: [https://github.com/DFOnline/CodeClient](https://github.com/DFOnline/CodeClient)  
 
