@@ -21,3 +21,46 @@ html {
 a:not(.ignore) {
     @apply text-green-400 hover:text-green-500 transition
 }
+
+
+.title-inner {
+    position: relative;
+}
+
+.title-inner .copy {
+    @apply text-neutral-400 cursor-pointer absolute left-0 top-0 translate-x-[-30px] pr-[30px] opacity-0 transition
+}
+
+.title-inner.small .copy {
+    @apply translate-x-[-22px] translate-y-[-2.5px];
+}
+
+.title-inner:hover .copy {
+    @apply opacity-100
+}
+
+@keyframes fail {
+    50% {
+        color: theme(textColor.red.500)
+    }
+    100% {
+
+    }
+}
+
+@keyframes success {
+    50% {
+        color: theme(textColor.green.500)
+    }
+    100% {
+
+    }
+}
+
+.title-inner .copy[data-anim="success"] {
+    animation: success .5s ease-in-out;
+}
+
+.title-inner .copy[data-anim="fail"] {
+    animation: spin .5s ease-in-out;
+}

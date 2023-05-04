@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faDiscord, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { faCircle } from "@fortawesome/free-solid-svg-icons";
 
+let wasNull = true;
 function App() {
 
   const [data, setData] = useState<Data | null>(null)
@@ -16,7 +17,14 @@ function App() {
     })();
   }, []);
 
-
+  if(wasNull && data != null) {
+    wasNull = true;
+    if(location.href.includes("#")) {
+      const a = document.createElement("a")
+      a.href = "#" + location.href.split("#")[1]
+      a.click()
+    }
+  }
   return (
     <div className="md:m-10">
       <div className="w-full md:w-fit p-10 bg-cover relative">
@@ -43,6 +51,8 @@ function App() {
       </div>
     </div>
   )
+
+
 }
 
 export default App
