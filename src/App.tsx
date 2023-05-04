@@ -33,8 +33,8 @@ function App() {
         </div>
       </div>
       <div className="m-10 md:m-0 mt-5">
-        <h1 className="text-4xl font-bold mt-10">Table of contents</h1>
         {data == null ? <p></p> : <div className="animate-fade-in">
+            <h1 className="text-4xl font-bold mt-10">Table of contents</h1>
             <ul>
               {data.filter(category => !category.hidden).map(category => <li key={category.name}><a href={"#" + category.name}><FontAwesomeIcon icon={faCircle} className="text-[8px] translate-y-[-2.5px] mr-2" />{category.name} ({category.items.length})</a></li>)}
             </ul>
