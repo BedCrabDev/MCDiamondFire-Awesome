@@ -28,7 +28,7 @@ a:not(.ignore) {
 }
 
 .title-inner .copy {
-    @apply text-neutral-400 cursor-pointer absolute left-0 top-0 translate-x-[-30px] pr-[30px] opacity-0 transition
+    @apply text-neutral-400 cursor-pointer absolute left-0 top-0 translate-x-[-30px] pr-[7px] opacity-0 transition
 }
 
 .title-inner.small .copy {
