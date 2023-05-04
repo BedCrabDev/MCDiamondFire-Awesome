@@ -9,7 +9,7 @@ export interface Item {
     name: string
     description: string
     properties: Record<string, string>
-    deprecation?: string
+    outdated?: boolean
 }
 
 export type Data = Category[]

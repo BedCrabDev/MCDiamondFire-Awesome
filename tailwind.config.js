@@ -14,6 +14,9 @@ export default {
           "0%": { opacity: 0 },
           "100%": { opacity: 1 }
         }
+      },
+      "colors": {
+        "neutral-850": "#121212"
       }
     },
     borderRadius: {

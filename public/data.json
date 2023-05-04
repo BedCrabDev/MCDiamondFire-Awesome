@@ -184,25 +184,27 @@
         "items": [
             {
                 "name": "CodeUtilities 3.0",
-                "description": "Scripting with some other minor utilites.",
+                "description": "Scripting with some other minor utilities.",
                 "properties": {
                     "Version": "1.18",
                     "Discord": "https://discord.gg/WY6tPFE",
                     "Github": "https://github.com/CodeUtilities/CodeUtilities/",
-                    "Website": "https://codeutilities.github.io/"
+                    "Website": "https://codeutilities.github.io/",
+                    "Deprecated": "Replaced with recode and DFScript."
                 },
-                "deprecation": "Replaced recode and DFScript."
+                "outdated": true
             },
             {
                 "name": "CodeUtilities 2.0",
-                "description": "Feature packed with utilites.",
+                "description": "Feature packed with utilities.",
                 "properties": {
                     "Version": "1.16",
                     "Discord": "https://discord.gg/WY6tPFE",
                     "Github": "https://github.com/CodeUtilities/CodeUtilities-2.0/",
-                    "Website": "https://codeutilities.github.io/"
+                    "Website": "https://codeutilities.github.io/",
+                    "Deprecated": "DF no longer supports this Minecraft version."
                 },
-                "deprecation": "DF no longer supports this Minecraft version"
+                "outdated": true
             }
         ]
     }

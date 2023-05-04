@@ -23,7 +23,7 @@ export default function(props: Props) {
       }, []);
 
     return <>
-        <h1 className="text-xl pt-2 font-bold">{data.name}{data.deprecation ? <span className="bg-gradient-to-r from-red-700 to-red-900 rounded-sm ml-2 p-1 text-sm">OUTDATED</span> : <></>}</h1>
+        <h1 className="text-xl pt-2 font-bold">{data.name}{data.outdated ? <span className="bg-gradient-to-r from-red-700 to-red-900 rounded-sm ml-2 p-1 text-sm">OUTDATED</span> : <></>}</h1>
         <p className="">{data.description}</p>
         {objectMap(data.properties, (k, v) => <Property refresh={size} data={[k, v]} key={k} />)}
     </>
