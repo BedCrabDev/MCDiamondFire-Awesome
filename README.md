@@ -15,6 +15,7 @@ These are the types of properties available:
 * Plain text: Version, Deprecated
 * Note that properties must be sorted in the order above
 
+
 If you want to modify the source code, you can fork the repository and open it locally or use GitHub codespaces to open the project in your browser. After, open a terminal and type `npm run dev` then open the local link.
 
 Here are some other things you can do to help:
