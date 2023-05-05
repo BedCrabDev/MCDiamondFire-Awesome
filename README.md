@@ -20,4 +20,4 @@ If you want to modify the source code, you can fork the repository and open it l
 Here are some other things you can do to help:
 * Update mod versions, if needed
 * Fix typos in this README or the website
-* Mark mods as deprecated if they are for an outdated version of minecraft that DiamondFire doesn't support
+* Mark mods as outdated version of Minecraft that DiamondFire doesn't support
