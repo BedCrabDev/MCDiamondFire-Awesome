@@ -85,32 +85,32 @@
         "name": "recode",
         "description": "Maintained CodeUtilities 2.0 fork.",
         "properties": {
-          "Version": "1.19.2",
           "Discord": "https://discord.gg/GWxWtcwA2C",
-          "Github": "https://github.com/homchom/recode"
+          "Github": "https://github.com/homchom/recode",
+          "Version": "1.19.2"
         }
       }, {
         "name": "LessUtilities",
         "description": "A couple utilities from CodeUtilities 2.0.",
         "properties": {
-          "Version": "1.19.4",
-          "Github": "https://github.com/KabanFriends/LessUtilities/"
+          "Github": "https://github.com/KabanFriends/LessUtilities/",
+          "Version": "1.19.4"
         }
       }, {
         "name": "DFScript",
         "description": "A revival of the CodeUtilities scripting feature",
         "properties": {
-          "Version": "1.19.4",
           "Discord": "https://discord.gg/pEZYShEj",
-          "Github": "https://github.com/DFOnline/DFScript"
+          "Github": "https://github.com/DFOnline/DFScript",
+          "Version": "1.19.4"
         }
       }, {
         "name": "CodeClient",
         "description": "An in development mod with large changes to optimize how you code. From the devs of DFOnline.",
         "properties": {
-          "Version": "1.19.4",
           "Discord": "https://discord.gg/NqU6XnyVPA",
-          "Github": "https://github.com/DFOnline/CodeClient"
+          "Github": "https://github.com/DFOnline/CodeClient",
+          "Version": "1.19.4"
         }
       }
     ]
@@ -171,22 +171,22 @@
         "name": "CodeUtilities 3.0",
         "description": "Scripting with some other minor utilities.",
         "properties": {
-          "Version": "1.18",
-          "Deprecated": "Replaced with recode and DFScript.",
           "Discord": "https://discord.gg/WY6tPFE",
           "Github": "https://github.com/CodeUtilities/CodeUtilities/",
-          "Website": "https://codeutilities.github.io/"
+          "Website": "https://codeutilities.github.io/",
+          "Version": "1.18",
+          "Deprecated": "Replaced with recode and DFScript."
         },
         "outdated": true
       }, {
         "name": "CodeUtilities 2.0",
         "description": "Feature packed with utilities.",
         "properties": {
-          "Version": "1.16",
-          "Deprecated": "DF no longer supports this Minecraft version.",
           "Discord": "https://discord.gg/WY6tPFE",
           "Github": "https://github.com/CodeUtilities/CodeUtilities-2.0/",
-          "Website": "https://codeutilities.github.io/"
+          "Website": "https://codeutilities.github.io/",
+          "Version": "1.16",
+          "Deprecated": "DF no longer supports this Minecraft version."
         },
         "outdated": true
         }

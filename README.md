@@ -10,6 +10,11 @@ This repository contains the source code for our website that you can view at [*
 
 If you want to add your project, you can create an issue on the issue tracker tab with your project's name, links, and why it's awesome. If you know what you're doing, you can modify the list located in [**public/data.json**](public/data.json) and open a pull request.
 
+These are the types of properties available:
+* Links: Link, Discord, GitHub, Website, Docs, NPM, PyPI, Crates.io
+* Plain text: Version, Deprecated
+* Note that properties must be sorted in the order above
+
 If you want to modify the source code, you can fork the repository and open it locally or use GitHub codespaces to open the project in your browser. After, open a terminal and type `npm run dev` then open the local link.
 
 Here are some other things you can do to help:
