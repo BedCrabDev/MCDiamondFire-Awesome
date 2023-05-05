@@ -26,7 +26,7 @@ function App() {
     }
   }
   return (
-    <div className="md:m-10">
+    <div className="md:m-10 cursor-default select-none">
       <div className="w-full md:w-fit p-10 bg-cover relative">
         <img className="md:rounded-lg absolute top-0 left-0 z-[-1] h-full w-full object-cover opacity-75" src="https://raw.githubusercontent.com/SquaredStudios-MC/DiamondFireWithShaders/main/images/node7_2.png" />
         <div className="absolute top-3 right-3 flex gap-3 text-3xl">
