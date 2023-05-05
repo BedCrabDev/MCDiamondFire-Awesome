@@ -187,10 +187,10 @@
                 "description": "Scripting with some other minor utilities.",
                 "properties": {
                     "Version": "1.18",
+                    "Deprecated": "Replaced with recode and DFScript.",
                     "Discord": "https://discord.gg/WY6tPFE",
                     "Github": "https://github.com/CodeUtilities/CodeUtilities/",
-                    "Website": "https://codeutilities.github.io/",
-                    "Deprecated": "Replaced with recode and DFScript."
+                    "Website": "https://codeutilities.github.io/"
                 },
                 "outdated": true
             },
@@ -199,10 +199,10 @@
                 "description": "Feature packed with utilities.",
                 "properties": {
                     "Version": "1.16",
+                    "Deprecated": "DF no longer supports this Minecraft version.",
                     "Discord": "https://discord.gg/WY6tPFE",
                     "Github": "https://github.com/CodeUtilities/CodeUtilities-2.0/",
-                    "Website": "https://codeutilities.github.io/",
-                    "Deprecated": "DF no longer supports this Minecraft version."
+                    "Website": "https://codeutilities.github.io/"
                 },
                 "outdated": true
             }
