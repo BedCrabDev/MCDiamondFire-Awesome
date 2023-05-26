@@ -14,7 +14,7 @@ These are the types of properties available:
 * Links: Link, Discord, GitHub, Website, Docs, NPM, PyPI, Crates.io
 * Plain text: Version, Deprecated
 
-Note that properties do not need to be in a spesific order.
+Note that properties do not need to be in a specific order.
 
 If you want to modify the source code, you can fork the repository and open it locally or use GitHub codespaces to open the project in your browser. After, open a terminal and type `npm run dev` then open the local link.
 
