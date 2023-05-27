@@ -1,64 +1,63 @@
 import { faDiscord, faGithub, faNpm, faPython, faRust } from "@fortawesome/free-brands-svg-icons";
 import { faBook, faCodeCompare, faGlobe, faLink, faQuestion, faSkull } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { isMd, niceUrl } from "./util";
+import { isMobileDevice, niceUrl } from "./util";
 
 interface Props {
-    data: [string, string]
-    refresh: any
+  data: [string, string]
 }
 
 export default function(props: Props) {
-    const [label, value] = props.data;
+  const [label, value] = props.data;
+  let icon;
+  switch(label.toLowerCase()) {
+    case "github":
+      icon = <FontAwesomeIcon icon={faGithub} />
+      break
+    case "discord":
+      icon = <FontAwesomeIcon icon={faDiscord} />
+      break
+    case "website":
+      icon = <FontAwesomeIcon icon={faGlobe} />
+      break
+    case "version":
+      icon = <FontAwesomeIcon icon={faCodeCompare} />
+      break
+    case "link":
+      icon = <FontAwesomeIcon icon={faLink} />
+      break
+    case "docs":
+      icon = <FontAwesomeIcon icon={faBook} />
+      break
+    case "npm":
+      icon = <FontAwesomeIcon icon={faNpm} />
+      break
+    case "crates.io":
+      icon = <FontAwesomeIcon icon={faRust} />
+      break
+    case "pypi":
+      icon = <FontAwesomeIcon icon={faPython} />
+      break
+    case "deprecated":
+      icon = <FontAwesomeIcon icon={faSkull} />
+      break
+    default:
+      icon = <FontAwesomeIcon icon={faQuestion} />
+  }
 
-    let icon = <FontAwesomeIcon icon={faQuestion} />
-    const l = label.toLowerCase()
+  const isLink = value.startsWith("http")
 
-    if(l == "github") {
-        icon = <FontAwesomeIcon icon={faGithub} />
+  if(!isMobileDevice()) {
+    if (isLink) {
+      return <p><a href={value} target="_blank">{icon} {label}</a></p>
+    } else {
+      return <p>{icon} {label}: {value}</p>
     }
-
-    if(l == "discord") {
-        icon = <FontAwesomeIcon icon={faDiscord} />
+  } else {
+    if (isLink) {
+      return <p>{icon} {label}: <a href={value} target="_blank">{niceUrl(value)}</a></p>
+    } else {
+      return <p>{icon} {label}: {value}</p>;
     }
-
-    if(l == "website") {
-        icon = <FontAwesomeIcon icon={faGlobe} />
-    }
-
-    if(l == "version") {
-        icon = <FontAwesomeIcon icon={faCodeCompare} />
-    }
-
-    if(l == "link") {
-        icon = <FontAwesomeIcon icon={faLink} />
-    }
-
-    if(l == "docs") {
-        icon = <FontAwesomeIcon icon={faBook} />
-    }
-
-    if(l == "npm") {
-        icon = <FontAwesomeIcon icon={faNpm} />
-    }
-
-    if(l == "crates.io") {
-        icon = <FontAwesomeIcon icon={faRust} />
-    }
-
-    if(l == "pypi") {
-        icon = <FontAwesomeIcon icon={faPython} />
-    }
-
-    if(l == "deprecated") {
-        icon = <FontAwesomeIcon icon={faSkull} />
-    }
-
-    const isLink = value.startsWith("http")
-
-    if(!isMd()) {
-        return <p>{isLink ? <a href={value} target="_blank">{icon} {label}</a> : <>{icon} {label}: {value}</>}</p>
-    }
-
-    return <p>{icon} {label}: {isLink ? <a href={value} target="_blank">{niceUrl(value)}</a> : value}</p>;
+  }
 }
