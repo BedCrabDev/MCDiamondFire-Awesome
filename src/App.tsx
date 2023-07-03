@@ -62,7 +62,7 @@ function App() {
     <div className="md:m-10 cursor-default select-none">
       {/* Header */}
       <div className="w-full md:w-fit p-10 bg-cover relative">
-        <img className="md:rounded-lg absolute top-0 left-0 z-[-1] h-full w-full object-cover opacity-75" src="https://raw.githubusercontent.com/SquaredStudios-MC/DiamondFireWithShaders/main/images/node7_2.png" />
+        <img className="md:rounded-lg absolute top-0 left-0 z-[-1] h-full w-full object-cover opacity-75" src="https://raw.githubusercontent.com/AstroSquared/DiamondFireWithShaders/main/images/node7_2.png" />
         <div className="absolute top-3 right-3 flex gap-3 text-3xl">
           <a href="https://github.com/BedCrabDev/MCDiamondFire-Awesome" className="ignore opacity-90 hover:opacity-100 transition"><FontAwesomeIcon icon={faGithub} /></a>
           <a href="https://discord.gg/NqU6XnyVPA" className="ignore opacity-90 hover:opacity-100 transition"><FontAwesomeIcon icon={faDiscord} /></a>
