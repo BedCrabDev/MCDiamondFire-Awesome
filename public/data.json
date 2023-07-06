@@ -17,21 +17,13 @@
         "properties": {
           "Link": "https://mcdiamondfire.com/threads/code-template-manipulation.51/"
         }
-      },{
+      }, {
         "name": "DFPrismarine",
         "description": "Create code templates using JavaScript inside your browser.",
         "properties": {
           "Discord": "https://discord.gg/rbdXbfu",
           "Github": "https://github.com/dfprismarine/dfprismarine.github.io",
           "Website": "https://dfprismarine.github.io/"
-        }
-      }, {
-        "name": "Sparkscript",
-        "description": "Create code templates using JavaScript inside your favorite IDE.",
-        "properties": {
-          "Github": "https://github.com/userunp/sparkscript",
-          "Docs": "https://userunp.github.io/sparkscript/",
-          "NPM": "https://www.npmjs.com/package/sparkscript"
         }
       }, {
         "name": "DFblocc",
@@ -187,6 +179,15 @@
           "Website": "https://codeutilities.github.io/",
           "Version": "1.16",
           "Deprecated": "DF no longer supports this Minecraft version."
+        },
+        "outdated": true
+      }, {
+        "name": "Sparkscript",
+        "description": "Create code templates using JavaScript inside your favorite IDE.",
+        "properties": {
+          "Github": "https://github.com/userunp/sparkscript",
+          "Docs": "https://userunp.github.io/sparkscript/",
+          "NPM": "https://www.npmjs.com/package/sparkscript"
         },
         "outdated": true
       }
