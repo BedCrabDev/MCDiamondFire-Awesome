@@ -92,7 +92,7 @@
         "description": "A couple utilities from CodeUtilities 2.0.",
         "properties": {
           "Github": "https://github.com/KabanFriends/LessUtilities/",
-          "Version": "1.19.4"
+          "Version": "1.20"
         }
       }, {
         "name": "DFScript",
@@ -100,7 +100,7 @@
         "properties": {
           "Discord": "https://discord.gg/pEZYShEj",
           "Github": "https://github.com/DFOnline/DFScript",
-          "Version": "1.19.4"
+          "Version": "1.20"
         }
       }, {
         "name": "CodeClient",
@@ -108,7 +108,7 @@
         "properties": {
           "Discord": "https://discord.gg/NqU6XnyVPA",
           "Github": "https://github.com/DFOnline/CodeClient",
-          "Version": "1.19.4"
+          "Version": "1.20"
         }
       }
     ]
