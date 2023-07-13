@@ -66,6 +66,12 @@
           "Github": "https://github.com/BlackstoneDF/blackstone",
           "Crates.io": "https://crates.io/crates/blackstone-df"
         }
+      }, {
+        "name": "FrozenJade",
+        "description": "A custom low-level programming language that can be converted to DiamondFire Templates and back(WIP). Created with antlr4.",
+        "properties": {
+          "Github": "https://github.com/HellishBro/FrozenJade"
+        }
       }
     ]
   },
