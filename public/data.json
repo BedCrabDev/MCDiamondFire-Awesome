@@ -46,6 +46,13 @@
           "PyPI": "https://pypi.org/project/pyre"
         }
       }, {
+        "name": "DFBlock (Python)",
+        "description": "A DiamondFire Type Interface, coded in Python.",
+        "properties": {
+          "Github": "https://github.com/showierdata9978/DFBlocks",
+          "PyPI": "https://pypi.org/project/dfblocks/"
+        }
+      }, {
         "name": "McDFPy",
         "description": "A python library to create code for DiamondFire.",
         "properties": {
