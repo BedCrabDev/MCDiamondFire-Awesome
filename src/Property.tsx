@@ -1,7 +1,7 @@
 import { faDiscord, faGithub, faNpm, faPython, faRust } from "@fortawesome/free-brands-svg-icons";
 import { faBook, faCodeCompare, faGlobe, faLink, faQuestion, faSkull } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { isMobileDevice, niceUrl } from "./util";
+import { isMd, niceUrl } from "./util";
 
 interface Props {
   data: [string, string]
@@ -47,7 +47,7 @@ export default function(props: Props) {
 
   const isLink = value.startsWith("http")
 
-  if(!isMobileDevice()) {
+  if(!isMd()) {
     if (isLink) {
       return <p><a href={value} target="_blank">{icon} {label}</a></p>
     } else {
