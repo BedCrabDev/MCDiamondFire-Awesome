@@ -6,7 +6,7 @@ export function objectMap<T, R>(obj: Record<string, T>, func: (key: string, valu
   return result
 }
 
-export function isMobileDevice() {
+export function isMd() {
   return matchMedia("(min-width: 768px)").matches
 }
 
