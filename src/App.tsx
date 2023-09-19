@@ -37,7 +37,7 @@ function App() {
       // Format:
       // ⬤ Category Name (Project Count)
       return <li key={category.name}>
-        <a href={"#" + "${category.name}"}>
+        <a href={`#${category.name}`}>
           <FontAwesomeIcon icon={faCircle} className="text-[8px] translate-y-[-2.5px] mr-2 text-white" />
           {category.name} ({category.items.length})
         </a>
