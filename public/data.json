@@ -61,7 +61,7 @@
         }
       }, {
         "name": "JFDF",
-        "description": "Create code templates using Java",
+        "description": "Create code templates using Java.",
         "properties": {
           "Github": "https://github.com/homchom/JFDF",
           "Docs": "https://jfdf-docs.netlify.app/latest/"
@@ -103,7 +103,7 @@
         }
       }, {
         "name": "DFScript",
-        "description": "A revival of the CodeUtilities scripting feature",
+        "description": "A revival of the CodeUtilities scripting feature.",
         "properties": {
           "Discord": "https://discord.gg/pEZYShEj",
           "Github": "https://github.com/DFOnline/DFScript",
@@ -137,6 +137,13 @@
     "description": "More things that don't fit in the categories above",
     "items": [
       {
+        "name": "DFSchematics",
+        "description": "Tool to import schematic files into DiamondFire.",
+        "properties": {
+          "Github": "https://github.com/RyanLandDev/DFSchematics/"
+        }
+      },
+      {
         "name": "DF Spigotifier",
         "description": "Convert DiamondFire template into Spigot plugins.",
         "properties": {
@@ -153,7 +160,7 @@
         }
       }, {
         "name": "dfplots.net",
-        "description": "You can claim any subdomain of dfplots.net to host a site for you DiamondFire plot.",
+        "description": "You can claim any subdomain of dfplots.net to host a site for your DiamondFire plot.",
         "properties": {
             "Website": "https://www.dfplots.net/",
             "Discord": "https://discord.gg/rxmfkDjy6c"
