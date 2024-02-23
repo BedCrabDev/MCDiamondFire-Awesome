@@ -60,13 +60,6 @@
           "PyPI": "https://pypi.org/project/McDFPy"
         }
       }, {
-        "name": "JFDF",
-        "description": "Create code templates using Java.",
-        "properties": {
-          "Github": "https://github.com/homchom/JFDF",
-          "Docs": "https://jfdf-docs.netlify.app/latest/"
-        }
-      }, {
         "name": "Blackstone",
         "description": "A programming language designed for DiamondFire.",
         "properties": {
@@ -92,14 +85,14 @@
         "properties": {
           "Discord": "https://discord.gg/GWxWtcwA2C",
           "Github": "https://github.com/homchom/recode",
-          "Version": "1.20.1"
+          "Version": "1.20.2"
         }
       }, {
         "name": "LessUtilities",
         "description": "A couple utilities from CodeUtilities 2.0.",
         "properties": {
           "Github": "https://github.com/KabanFriends/LessUtilities/",
-          "Version": "1.20"
+          "Version": "1.20.4"
         }
       }, {
         "name": "DFScript",
@@ -115,7 +108,7 @@
         "properties": {
           "Discord": "https://discord.gg/NqU6XnyVPA",
           "Github": "https://github.com/DFOnline/CodeClient",
-          "Version": "1.20"
+          "Version": "1.20.4"
         }
       }
     ]
@@ -208,6 +201,15 @@
           "Github": "https://github.com/userunp/sparkscript",
           "Docs": "https://userunp.github.io/sparkscript/",
           "NPM": "https://www.npmjs.com/package/sparkscript"
+        },
+        "outdated": true
+      },
+      {
+        "name": "JFDF",
+        "description": "Create code templates using Java.",
+        "properties": {
+          "Github": "https://github.com/homchom/JFDF",
+          "Docs": "https://jfdf-docs.netlify.app/latest/"
         },
         "outdated": true
       }
