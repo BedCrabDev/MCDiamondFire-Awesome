@@ -72,6 +72,13 @@
         "properties": {
           "Github": "https://github.com/HellishBro/FrozenJade"
         }
+      }, {
+        "name": "scratchfire",
+        "description": "A block based coding language and IDE for the Minecraft server Diamondfire.",
+        "properties": {
+          "Github": "https://github.com/anatevka-xD/scratchfire",
+          "Discord": "https://discord.gg/a5h7PKbE33"
+        }
       }
     ]
   },
