@@ -79,6 +79,12 @@
           "Github": "https://github.com/anatevka-xD/scratchfire",
           "Discord": "https://discord.gg/a5h7PKbE33"
         }
+      }, {
+        "name": "KotlinFire",
+        "description": "KotlinFire is a Kotlin library for template manipulation, making use of Kotlin lambdas, operator overloading, and extension functions, allowing for a pretty clean syntax.",
+        "properties": {
+          "Github": "https://github.com/FlyingPig525/KotlinFire"
+        }
       }
     ]
   },
