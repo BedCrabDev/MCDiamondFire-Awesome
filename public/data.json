@@ -26,24 +26,11 @@
           "Website": "https://dfprismarine.github.io/"
         }
       }, {
-        "name": "DFblocc",
-        "description": "Code templates made with a scratch-like editor.",
-        "properties": {
-          "Github": "https://github.com/UserUNP/DFblocc",
-          "Website": "https://blocc.dfplots.net/"
-        }
-      }, {
-        "name": "vmd2df",
-        "description": "Create armor stand code from vmd files.",
-        "properties": {
-          "Github": "https://github.com/KabanFriends/vmd2df"
-        }
-      }, {
         "name": "pyre",
         "description": "Create code templates using Python inside your favorite IDE.",
         "properties": {
-          "Github": "https://github.com/Ampersand-S/pyre",
-          "PyPI": "https://pypi.org/project/pyre"
+          "Github": "https://github.com/Amp63/pyre",
+          "PyPI": "https://pypi.org/project/dfpyre"
         }
       }, {
         "name": "DFBlock (Python)",
@@ -113,7 +100,7 @@
         "properties": {
           "Discord": "https://discord.gg/pEZYShEj",
           "Github": "https://github.com/DFOnline/DFScript",
-          "Version": "1.20.1"
+          "Version": "1.20.4"
         }
       }, {
         "name": "CodeClient",
@@ -127,20 +114,8 @@
     ]
   },
   {
-    "name": "Code templates",
-    "description": "Hand-picked from the code vault",
-    "items": [
-      {
-        "name": "soonTM",
-        "description": null,
-        "properties": null
-      }
-    ],
-    "hidden": true
-  },
-  {
-    "name": "Misc",
-    "description": "More things that don't fit in the categories above",
+    "name": "Converters",
+    "description": "Tools to import/export code templates with DiamondFire.",
     "items": [
       {
         "name": "DFSchematics",
@@ -148,8 +123,13 @@
         "properties": {
           "Github": "https://github.com/RyanLandDev/DFSchematics/"
         }
-      },
-      {
+      }, {
+        "name": "vmd2df",
+        "description": "Create armor stand code from vmd files.",
+        "properties": {
+          "Github": "https://github.com/KabanFriends/vmd2df"
+        }
+      }, {
         "name": "DF Spigotifier",
         "description": "Convert DiamondFire template into Spigot plugins.",
         "properties": {
@@ -157,7 +137,14 @@
           "Discord": "https://discord.gg/6j5NhPuZ6B",
           "Github": "https://github.com/Wonkers0/DFSpigot"
         }
-      }, {
+      }
+    ]
+  },
+  {
+    "name": "Misc",
+    "description": "More things that don't fit in the categories above",
+    "items": [
+      {
         "name": "DiamondFire Tools",
         "description": "A collection of web-tools for the DiamondFire Minecraft server. Create stylized text for DiamondFire text values. View a filterable list of DiamondFire commands.",
         "properties": {
@@ -216,8 +203,7 @@
           "NPM": "https://www.npmjs.com/package/sparkscript"
         },
         "outdated": true
-      },
-      {
+      }, {
         "name": "JFDF",
         "description": "Create code templates using Java.",
         "properties": {
@@ -225,6 +211,13 @@
           "Docs": "https://jfdf-docs.netlify.app/latest/"
         },
         "outdated": true
+      }, {
+        "name": "DFblocc",
+        "description": "Code templates made with a scratch-like editor.",
+        "properties": {
+          "Github": "https://github.com/UserUNP/DFblocc",
+          "Website": "https://blocc.dfplots.net/"
+        }
       }
     ]
   }
