@@ -72,6 +72,13 @@
         "properties": {
           "Github": "https://github.com/FlyingPig525/KotlinFire"
         }
+      }, {
+        "name": "dfrs",
+        "description": "A text based programming language that compiles to DiamondFire code templates.",
+        "properties": {
+          "Github": "https://github.com/GaviTSRA/dfrs",
+          "Discord": "https://discord.gg/FUxakXXeMb"
+        }
       }
     ]
   },
